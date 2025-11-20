@@ -4,7 +4,7 @@ Document Training Script for AI Mentor System
 Safely uploads and trains documents to specified mentor pathways.
 
 Usage:
-    python safe_train_mentor_with_file.py
+    python addFile.py
 
 Author: Syracuse University
 Version: 1.0
